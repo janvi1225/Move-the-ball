@@ -1,0 +1,13 @@
+.circle{
+	/*margin: 50px;
+	padding: 50px;*/
+	height: 100px;
+	width: 100px;
+	background-color: cyan;
+	box-sizing: border-box;
+	border-radius: 50%;
+}
+#viewport{
+	position: absolute;
+	
+}
